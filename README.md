@@ -92,8 +92,8 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://github.com/evildevill/instahack/blob/master/assets/Screenshot_2021_0219_173238.jpg"/>
-<img width="45%" src="https://github.com/evildevill/instahack/blob/master/assets/Screenshot_20210219_173248.jpg"/>
+<img width="50%" src="https://instagram.com/archaudayakumar?utm_medium=copy_link
+<img width="45%" src="https://instagram.com/archaudayakumar?utm_medium=copy_link
 </p>
 
 ## WATCH VIDEO [Termux]
